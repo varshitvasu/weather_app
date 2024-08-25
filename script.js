@@ -1,6 +1,5 @@
-const apiKey = 'c0800b765e8b9670e3b0735f5211020d';
-// const search = document.getElementById('search-btn');
-// console.log(search.value);
+const apiKey = 'Enter API Key';
+
 
 
 document.getElementById('search-btn').addEventListener('click', ()=>{
